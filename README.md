@@ -13,7 +13,7 @@
 
 
 <body id="opisb">
-<h5>
+<h6>
   Ovdje je Završno izvješće o Projektnom zadatku 
  <br>  SU_Projekt_DJ.pdf i njegove programske realizacija Crtice.java.
  <br>  Program je pisan u Javi verzija 1.8.
@@ -22,8 +22,8 @@
  <br>  java  Crtice
  <br>  Može se pregledati u nekom tekst editoru 
  <br>  ili u MS Visual studiju 2012 u programskom jeziku J#.
- <br> <tab> Dario Jurić
- </h5>
+ <br> <\t> Dario Jurić
+ </h6>
 </body>
 
 </html>
