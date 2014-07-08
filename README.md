@@ -20,7 +20,7 @@ i njegove programske realizacija Crtice.java.
  <script>
 function fn()
 {
- document.getElementById("opis").style.font="Times,serif";
+ document.getElementById("opis").style.font="Times New Roman";
 }
 </script>
 
