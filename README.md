@@ -17,12 +17,15 @@ i njegove programske realizacija Crtice.java.
      java  Crtice
  <br> Može se pregledati u nekom tekst editoru ili u MS Visual studiju 2012 u programskom jeziku J#.
 
+<button type="button" onclick="myFunction()">Set font</button>
+ 
 <script>
-function fn()
+function myFunction()
 {
- document.getElementById("opist").style.font="Georgia";
+document.getElementById("myP").style.font="italic bold 20px arial,serif";
 }
 </script>
+
 
  
 </body>
