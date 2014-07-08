@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html >
-<head>
 
+<head>
 <title
-<h3>><center>Strojno učenje </center></h3>
+<h3><center>Strojno učenje </center></h3>
 </title>
 <h4> <center> Projektni zadatak </center> </h4>
 </head>
@@ -16,4 +16,5 @@ Pokreće se pomoću naredbi:
   java  Crtice
 Može se pregledati u nekom tekst editoru ili u MS Visual studiju 2012 u programskom jeziku C#.
 </body>
+
 </html>
