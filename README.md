@@ -4,10 +4,8 @@
 <head id=""opish"">
 <div >
 <title >
-<center>
 <h4 style="color:#0000FF">Strojno učenje </h4>
-</center>
-<h5><center> Projektni zadatak </center> </h5>
+<h5> Projektni zadatak</h5>
 </title>
 </div>
 </head>
