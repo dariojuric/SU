@@ -2,8 +2,8 @@
 
 <head id=""opish"">
 
-<title id="opist" style="color:#0000FF">
-<h4><center>Strojno učenje </center></h4>
+<title id="opist" >
+<h4 style="color:#0000FF"><center>Strojno učenje </center></h4>
  <h5><center> Projektni zadatak </center> </h5>
 </title>
 </head>
