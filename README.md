@@ -1,24 +1,17 @@
 <html>
 
 <head>
-<style>
-p.normal {
-    font-family: "Times New Roman", Times, serif;
-}
 
-p.serif {
-     font-family: "Times New Roman", Times, , sans-serif;
-}
-</style>
-<title class="normal">
+<title >
 <h3><center>Strojno učenje </center></h3>
 <h4> <center> Projektni zadatak </center> </h4>
 </title>
 </head>
 
-<body class="serif">
- Ovdje je Završno izvješće o Projektnom zadatku SU_Projekt_DJ
-i JAVA realizacija Crtice.java.Program je pisan u Java verziji 1.8.
+<body >
+ Ovdje je Završno izvješće o Projektnom zadatku SU_Projekt_DJ.pdf
+i njegove programske realizacija Crtice.java.
+Program je pisan u Javi verziji 1.8.
 Pokreće se pomoću naredbi:
   javac Crtice.java
   java  Crtice
