@@ -2,7 +2,7 @@
 <script>
 function fn()
 {
- document.getElementById("opis").style.font="Times New Roman";
+ document.getElementById("opis").style.font="Georgia";
 }
 </script>
 
