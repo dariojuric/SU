@@ -9,7 +9,7 @@
 </head>
 
 <body >
- Ovdje je Završno izvješće o Projektnom zadatku SU_Projekt_DJ.pdf
+<br> Ovdje je Završno izvješće o Projektnom zadatku SU_Projekt_DJ.pdf
 i njegove programske realizacija Crtice.java.
  Program je pisan u Javi verziji 1.8.
  Pokreće se pomoću naredbi:
