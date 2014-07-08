@@ -7,7 +7,7 @@
 </title>
 </head>
 <body bgcolor="#E6E6FA">
-Ovdje je Završno izvješće o Projektnom zadatku SU_Projekt_DJ
+Ovdje je Završno izvješće o Projektnom zadatku: SU_Projekt_DJ
 i JAVA realizacija Crtice.java.Program je pisan u Java verziji 1.8.
 Pokreće se pomoću naredbi:
   javac Crtice.java
