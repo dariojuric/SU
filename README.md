@@ -9,7 +9,7 @@
 </head>
 
 <body id="opisb">
-<br> Ovdje je Završno izvješće o Projektnom zadatku SU_Projekt_DJ.pdf
+ Ovdje je Završno izvješće o Projektnom zadatku SU_Projekt_DJ.pdf
 i njegove programske realizacija Crtice.java.
  <br> Program je pisan u Javi verzija 1.8.
  <br> Pokreće se pomoću naredbi:
