@@ -17,7 +17,7 @@
  <br>  java  Crtice
  <br>  Može se pregledati u nekom tekst editoru 
  <br>  ili u MS Visual studiju 2012 u programskom jeziku J#.
- <br>                                 Dario Jurić
+ <br> <tab> Dario Jurić
 
 </script>
 
