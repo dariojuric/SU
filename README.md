@@ -3,8 +3,8 @@
 <head id=""opish"">
 
 <title id="opist">
-<h4><center>Strojno učenje </center>
- <center> Projektni zadatak </center> </h4>
+<h4><center>Strojno učenje </center></h4>
+ <h5><center> Projektni zadatak </center> </h5>
 </title>
 </head>
 
