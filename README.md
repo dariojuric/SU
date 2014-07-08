@@ -23,7 +23,7 @@
  <br>  ili u MS Visual studiju 2012 u programskom jeziku J#.
  <br>  Dario Jurić
  <br><br>
- <folder> SUProjekt </folder>
+ <folder>/* </folder>
  <br><br>
  
  </h7>
