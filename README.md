@@ -1,4 +1,11 @@
 <html>
+<script>
+function fn()
+{
+ document.getElementById("opis").style.font="Times New Roman";
+}
+</script>
+
 
 <head id=""opis"">
 
@@ -17,13 +24,6 @@ i njegove programske realizacija Crtice.java.
      java  Crtice
  <br> Može se pregledati u nekom tekst editoru ili u MS Visual studiju 2012 u programskom jeziku J#.
  
- <script>
-function fn()
-{
- document.getElementById("opis").style.font="Times New Roman";
-}
-</script>
-
 </body>
 
 </html>
