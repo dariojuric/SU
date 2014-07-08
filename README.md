@@ -1,14 +1,14 @@
 <html>
 
-<head id=""opis"">
+<head id=""opish"">
 
-<title id="opis">
+<title id="opist">
 <h3><center>Strojno učenje </center></h3>
 <h4> <center> Projektni zadatak </center> </h4>
 </title>
 </head>
 
-<body id="opis">
+<body id="opisb">
 <br> Ovdje je Završno izvješće o Projektnom zadatku SU_Projekt_DJ.pdf
 i njegove programske realizacija Crtice.java.
  <br> Program je pisan u Javi verzija 1.8.
@@ -20,7 +20,7 @@ i njegove programske realizacija Crtice.java.
 <script>
 function fn()
 {
- document.getElementById("opis").style.font="Georgia";
+ document.getElementById("opist").style.font="Georgia";
 }
 </script>
 
