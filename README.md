@@ -18,8 +18,8 @@
  <br>  Program je pisan u Javi verzija 1.8.
  <br>  Pokreće se pomoću naredbi:
  <br>  javac Crtice.java
- <br>  java  Crtice
- <br>  Može se pregledati u nekom Tekst editoru 
+ <br>  java  Crtice 
+ <br>  Može se pregledati u nekom tekst editoru 
  <br>  ili u MS Visual studiju 2012 u programskom jeziku J#.
  <br>  Dario Jurić
  </h7>
