@@ -20,9 +20,9 @@
  <br>  Pokreće se pomoću naredbi:
  <br>  javac Crtice.java
  <br>  java  Crtice
- <br>  Može se pregledati u nekom tekst editoru 
+ <br>  Može se pregledati u nekom Tekst editoru 
  <br>  ili u MS Visual studiju 2012 u programskom jeziku J#.
- <br>                  Dario Jurić
+ <br>  Dario Jurić
  </h7>
 </body>
 
